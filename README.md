@@ -81,7 +81,7 @@ or To allow preservation in a playable format..."
 
 # Stage Two:
 <p align="center">
-  <img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/gobble.jpg">
+  <img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/gobble.jpg" width="50%" height="50%">
 </p>
 
 For extended amounts of time now the details of how Sega Naomi can boot games from CDR media has been closely guarded. 
