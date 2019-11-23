@@ -252,23 +252,23 @@ https://github.com/einsteinx2/gditools.git
 ```
 $ python gditools.py -l -i /Users/FAD/Downloads/game.gdi 
 
-Parsed gdi file: game.gdi<br>
-Base Directory:  /Users/FAD/Downloads<br>
-Number of tracks:  3<br>
-<br>
-DATA track:<br>
-	Filename:  game03.bin<br>
-	LBA:       45000 <br>
-	Mode:      2352 bytes/sector<br>
-	Offset:    45000<br>
-	WormHole:  [0, 45000, 32]<br>
-<br>
-Listing all files in the filesystem:<br>
-<br>
-/<br>
-/BEJ.BIN<br>
-/IKARUGA.BIN<br>
-/NAOMIGD.BIN<br>
+Parsed gdi file: game.gdi
+Base Directory:  /Users/FAD/Downloads
+Number of tracks:  3
+
+DATA track:
+	Filename:  game03.bin
+	LBA:       45000 
+	Mode:      2352 bytes/sector
+	Offset:    45000
+	WormHole:  [0, 45000, 32]
+
+Listing all files in the filesystem:
+
+/
+/BEJ.BIN
+/IKARUGA.BIN
+/NAOMIGD.BIN
 
 
              .-"""""""-.
