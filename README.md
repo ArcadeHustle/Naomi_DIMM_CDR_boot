@@ -24,7 +24,7 @@ https://www.arcade-projects.com/forums/index.php?thread/11-naomi-cf-kit-and-dimm
 
 Please note that the style of soft misinformation tactics used below helps keep the community quiet, these techniques have been very effective at keeping a slow trickle of funding.
  
-https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&pageNo=1
+https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/
 <br>"there was no interested enough person, who have skills to hack DIMM firmware, and wants CD support added"
 
 https://www.emu-land.net/forum/index.php?topic=78927.0
@@ -42,13 +42,14 @@ even in online stores it is not easy to find good enough CD-Rs these days, becau
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=104077#post104077
 <br>"let's admit it. CD-R is a dead technology. If I could choose I would prefer something SD based..And if I could choose More, I'd like a device that replaces the DIMM with newer, less power demanding pcb."
 
-This is called "marketing"! How else could Mitsurugi_w sell so many CF adapters!? There will now be additional DIMM services available to compensate:
+This is called "marketing"! How else could Mitsurugi_w sell so many CF adapters!? There will now be additional DIMM services available to compensate for the losses:
 
-Convert Normal Dimm to Rev. 3.17 for CDR use-----$25 plus return shipping or free if you purchase a stack of CDROMs at the cash register of Hwy 55 Burgers NC locations
+"Convert Normal Dimm to Rev. 3.17 for CDR use-----$25 plus return shipping or free if you purchase a stack of CDROMs at the cash register of Hwy 55 Burgers NC locations" - Contact Mutsurugi_w!
 
-Some of the usage information will be further gatekept, you will need to talk to Mitsurugi_w, or Darksoft directly for more details on creating the appropriate CDROM images. 
+Some of the usage information will be further gatekept, you will need to talk to Mitsurugi_w, or Darksoft directly for more details on creating the appropriate CDROM images. NalISO.exe should be all you need though.
+https://archive.org/download/317hackedupdatergd/NaoIso.exe
 
-This write up will absolutly however give you access to all the previously gatekept firmware you need to make use of archived backups to help preserve your Naomi GDRoms as CDR media.
+This write up will absolutly give you access to all the previously gatekept firmware you need to make use of archived backups to help preserve your Naomi GDRoms as CDR media.
 https://archive.org/download/317hackedupdatergd
 
 Please remember the wise words of Mitsurugi_w "The info itself is not new or special. It's all over the web anyways" 
