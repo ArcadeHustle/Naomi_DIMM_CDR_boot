@@ -22,7 +22,7 @@ The above mentioned key players have helped monetize the arcade community via mi
 This Thanksgiving we've decided to decomission one more part of the ole "Internet Money Maker" by sharing a long lost mythical "CDR" firmware patch for the Naomi GDROM platform. 
 <br>TLDR: https://archive.org/download/317hackedupdatergd
 
-The past few years has been spent sowing the arcade scene with misinformation or "white lies" to help supress this sort of detail. It is well beyond time to fess up about this patch,
+The past few years have been spent sowing the arcade scene with misinformation or "white lies" to help supress this sort of detail. It is well beyond time to fess up about this patch,
 at this point enough CF readers have been sold. Discussing it is justified, as no private sales will be harmed given they've all tapered off anyway! 
 
 https://www.arcade-projects.com/forums/index.php?thread/11-naomi-cf-kit-and-dimm-conversion-services/
