@@ -186,9 +186,7 @@ https://www.arcade-projects.com/forums/index.php?thread/854-naomi-dimm-firmware-
 Only one brave soul has come forth to share any *real* detail outside the ranks of a very small circle.  
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=13939#post13939<br>
-"Before net booting and CF boooting, there was CD-R booting. You need to patch the DIMM firmware to disable media-check (GD-R vs CD-R) and a few other things, <br>
-I have tried this myself and it works, somewhat. Unfortunately, at least my setup failed after 1 hour of game-play - probably another mediacheck somehwere that triggered a reset.<br>
-I'm not aware of anyone managing to patch the firmware properly to avoid the reboot after an hour+.<br>
+"Before net booting and CF boooting, there was CD-R booting. You need to patch the DIMM firmware to disable media-check (GD-R vs CD-R) and a few other things, I have tried this myself and it works, somewhat. Unfortunately, at least my setup failed after 1 hour of game-play - probably another mediacheck somehwere that triggered a reset. I'm not aware of anyone managing to patch the firmware properly to avoid the reboot after an hour+.<br>
 
 I have an IDA PRO file timestamped 2008-10-10, which may be it... In any case, I can't take much credit for the firmware as the real details came from Spain..<br>
 
