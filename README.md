@@ -12,6 +12,8 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 
 # Stage One:
 
+Before we get to far into this, a friendly reminder: Please note that the following text is considered "for purposes of good-faith security research".
+
 The above mentioned key players have helped monetize the arcade community via microtransactions for "multicarts", "conversions", and other "fixes" for a few years now. 
 This Thanksgiving we've decided to decomission one more part of the ole "Internet Money Maker" by sharing a long lost mythical "CDR" firmware patch for the Naomi GDROM platform. 
 <br>TLDR: https://archive.org/download/317hackedupdatergd
@@ -53,8 +55,6 @@ This write up will absolutly give you access to all the previously gatekept firm
 https://archive.org/download/317hackedupdatergd
 
 Please remember the wise words of Mitsurugi_w "The info itself is not new or special. It's all over the web anyways" 
-
-Before we get to far into this, a friendly reminder: Please note that the following text is considered "for purposes of good-faith security research".
 
 Additional text relevant to this document can be found below: 
 
