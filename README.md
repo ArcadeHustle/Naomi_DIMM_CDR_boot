@@ -271,7 +271,7 @@ Listing all files in the filesystem:<br>
           {     |             _\ \.        GOBBLE GOBBLE
            {    |            / '-' \     FUCK A DARKSOFT !!
             {___\   /\______/    __/     ~~~~~~~~~~~~~~~~~
-                 ~~/   /    /____//      ```https://www.youtube.com/watch?v=l0nq1pQXX90```
+                 ~~/   /    /____//      https://www.youtube.com/watch?v=l0nq1pQXX90
                    '--'\___/ \___/
                            '\_ \_
             _Stitches'19_    /\ /\
