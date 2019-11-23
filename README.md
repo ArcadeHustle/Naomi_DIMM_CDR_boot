@@ -242,7 +242,8 @@ firmware2 (http://www.gamoover.net/aspic/2nd_FW_Dimm_402.rar) is a gd-rom/netboo
 Finally, the only thing left to mention is that the old Dreamcast "dcisotools" aka gditools may be useful in solving the disc creation. Good luck! If you get stuck, just but Mitsu or Dark. 
 https://github.com/einsteinx2/gditools.git
 
-$ python gditools.py -l -i /Users/x/Downloads/game.gdi 
+```
+$ python gditools.py -l -i /Users/FAD/Downloads/game.gdi 
 
 Parsed gdi file: game.gdi<br>
 Base Directory:  /Users/FAD/Downloads<br>
@@ -262,6 +263,7 @@ Listing all files in the filesystem:<br>
 /IKARUGA.BIN<br>
 /NAOMIGD.BIN<br>
 
+
              .-"""""""-.
             {      _____}---. .-.
            {      /          (  o\
@@ -269,9 +271,9 @@ Listing all files in the filesystem:<br>
           {     |             _\ \.        GOBBLE GOBBLE
            {    |            / '-' \     FUCK A DARKSOFT !!
             {___\   /\______/    __/     ~~~~~~~~~~~~~~~~~
-                 ~~/   /    /____//      https://www.youtube.com/watch?v=l0nq1pQXX90
+                 ~~/   /    /____//      ```https://www.youtube.com/watch?v=l0nq1pQXX90```
                    '--'\___/ \___/
                            '\_ \_
             _Stitches'19_    /\ /\
-
+```
 
