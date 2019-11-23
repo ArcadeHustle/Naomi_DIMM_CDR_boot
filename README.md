@@ -46,7 +46,7 @@ This is called "marketing"! How else could Mitsurugi_w sell so many CF adapters!
 
 "Convert Normal Dimm to Rev. 3.17 for CDR use-----$25 plus return shipping or free if you purchase a stack of CDROMs at the cash register of Hwy 55 Burgers NC locations" - Contact Mutsurugi_w!
 
-Some of the usage information will be further gatekept, you will need to talk to Mitsurugi_w, or Darksoft directly for more details on creating the appropriate CDROM images. NalISO.exe should be all you need though.
+Some of the usage information will be further gatekept, you will need to talk to Mitsurugi_w, or Darksoft directly for more details on creating the appropriate CDROM images. NaoIso.exe should be all you need though.
 https://archive.org/download/317hackedupdatergd/NaoIso.exe
 
 This write up will absolutly give you access to all the previously gatekept firmware you need to make use of archived backups to help preserve your Naomi GDRoms as CDR media.
