@@ -51,7 +51,7 @@ This is called "marketing"! How else could Mitsurugi_w sell so many CF adapters!
 Some of the usage information will be further gatekept, you will need to talk to Mitsurugi_w, or Darksoft directly for more details on creating the appropriate CDROM images. NaoIso.exe should be all you need though.
 https://archive.org/download/317hackedupdatergd/NaoIso.exe
 
-Related reading - The Disassembled version of NaiIso
+Related reading - The Disassembled .NET source version of NaoIso
 https://github.com/ArcadeHustle/Naomi_DIMM_CDR_boot/blob/master/disass/NaoISO_VS_Project/NaoIso/Form1.cs<br>
 https://github.com/ArcadeHustle/Naomi_DIMM_CDR_boot/blob/master/disass/NaoISO_VS_Project/NaoIso/Form1.Designer.cs
 
