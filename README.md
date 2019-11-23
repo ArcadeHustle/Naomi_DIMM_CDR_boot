@@ -201,14 +201,13 @@ He's right! It does... https://archive.org/download/317hackedupdatergd
 The rest of the detail belongs in the same historic dustbin, and it shall be left here with no further explaination 
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=13986#post13986<br>
-"it will of course not boot without a patched DIMM firmware, as it will check what kind of physical media is in the GD-Drive.. " Within the following link is mentioned http://wiki.pcbotaku.com/w/index.php?title=Disc_Layout
+"it will of course not boot without a patched DIMM firmware, as it will check what kind of physical media is in the GD-Drive..". Within the following link is mentioned http://wiki.pcbotaku.com/w/index.php?title=Disc_Layout
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=13992#post13992<br>
 "nowdays its simpler... for data extraction from GDI image can be used Japanese Cake's GDROM-Explorer"
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=14685#post14685<br>
-"I don't have the gear or inclination to test all this, burn CD-R's to see if it works, then answer questions about why people can't get it to work..<br>
-If you really want to have a go at it, I suggest you start disassembling a 3.17 version of the firmware. You're looking for a function called gdachecksecurity IIRC"
+"I don't have the gear or inclination to test all this, burn CD-R's to see if it works, then answer questions about why people can't get it to work.. If you really want to have a go at it, I suggest you start disassembling a 3.17 version of the firmware. You're looking for a function called gdachecksecurity IIRC"
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=102796#post102796<br>
 "there was unsolved side effects like reset after some time, which makes in ususable at practice, so that hack was abandoned in prior of CF or Net boot methods"
@@ -223,9 +222,9 @@ https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to
 "That reset was patched in the CF version. I guess it can also be easily patched in the GDRom version, if the code that does the check is similar or jumps to similar positions for reset, etc."
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=104062#post104062<br>
-"here is probably some kind of scheduled checks, iirc there is PIC check routine, and disk presence check routine, but I have no good ideas why it may not work for CD-R."
+"there is probably some kind of scheduled checks, iirc there is PIC check routine, and disk presence check routine, but I have no good ideas why it may not work for CD-R."
 
-A few more random gems can be found amongst other conversations 
+A few more random gems can be found amongst other conversations<br> 
 https://forum.arcadeotaku.com/posting.php?mode=quote&f=26&p=409047<br>
 "Well id expect now that the bios is hackable then i would i would inject the firmware in the bios and activate it when you go in rom test or similar."
 
@@ -235,7 +234,7 @@ https://forum.arcadeotaku.com/posting.php?mode=quote&f=26&p=410402<br>
 https://forum.arcadeotaku.com/posting.php?mode=quote&f=26&p=481794<br>
 "maybe i can take first 1MB from 3.17 firmware and second part from 4.02 updater and merge them to single .bin file using hex editor? Is it work this way?"
 
-All of this detail is loosely related. <br>
+The following dumps seem to be the root of much of the public use of DIMM firmware, they are mentioned here for posterity. 
 https://forum.arcadeotaku.com/posting.php?mode=quote&f=26&p=410392<br>
 "firmware1 (http://www.gamoover.net/aspic/1st_FW_Dimm317.rar) is the bog standard 3.17 - as a flash image ready to burn with a programmer (same md5sum as a flash I desoldered some time back)<br>
 firmware2 (http://www.gamoover.net/aspic/2nd_FW_Dimm_402.rar) is a gd-rom/netboot image, which will upgrade the dimm firmware to a patched 4.0 that works with non-net daughterboards."
