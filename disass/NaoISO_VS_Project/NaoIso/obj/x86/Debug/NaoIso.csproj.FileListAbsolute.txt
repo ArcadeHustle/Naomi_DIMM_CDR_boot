@@ -1,0 +1,2 @@
+C:\Users\kfinisterre\Desktop\Naomi_CDR_boot\NaoISO\NaoIso\obj\x86\Debug\NaoIso.csprojAssemblyReference.cache
+C:\Users\kfinisterre\Desktop\Naomi_CDR_boot\NaoISO\NaoIso\obj\x86\Debug\NaoIso.csproj.CoreCompileInputs.cache
