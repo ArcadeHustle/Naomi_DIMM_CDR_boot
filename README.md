@@ -51,6 +51,10 @@ This is called "marketing"! How else could Mitsurugi_w sell so many CF adapters!
 Some of the usage information will be further gatekept, you will need to talk to Mitsurugi_w, or Darksoft directly for more details on creating the appropriate CDROM images. NaoIso.exe should be all you need though.
 https://archive.org/download/317hackedupdatergd/NaoIso.exe
 
+Related reading - The Disassembled version of NaiIso
+https://github.com/ArcadeHustle/Naomi_DIMM_CDR_boot/blob/master/disass/NaoISO_VS_Project/NaoIso/Form1.cs<br>
+https://github.com/ArcadeHustle/Naomi_DIMM_CDR_boot/blob/master/disass/NaoISO_VS_Project/NaoIso/Form1.Designer.cs
+
 This write up will absolutly give you access to all the previously gatekept firmware you need to make use of archived backups to help preserve your Naomi GDRoms as CDR media.
 https://archive.org/download/317hackedupdatergd
 
@@ -197,11 +201,7 @@ He's right! It does... https://archive.org/download/317hackedupdatergd
 The rest of the detail belongs in the same historic dustbin, and it shall be left here with no further explaination 
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=13986#post13986<br>
-"it will of course not boot without a patched DIMM firmware, as it will check what kind of physical media is in the GD-Drive.. "<br>
-Within the following link is mentioned http://wiki.pcbotaku.com/w/index.php?title=Disc_Layout
-
-Related reading - https://github.com/ArcadeHustle/Naomi_DIMM_CDR_boot/blob/master/disass/NaoISO_VS_Project/NaoIso/Form1.cs<br>
-https://github.com/ArcadeHustle/Naomi_DIMM_CDR_boot/blob/master/disass/NaoISO_VS_Project/NaoIso/Form1.Designer.cs
+"it will of course not boot without a patched DIMM firmware, as it will check what kind of physical media is in the GD-Drive.. " Within the following link is mentioned http://wiki.pcbotaku.com/w/index.php?title=Disc_Layout
 
 https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=13992#post13992<br>
 "nowdays its simpler... for data extraction from GDI image can be used Japanese Cake's GDROM-Explorer"
