@@ -12,6 +12,10 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 
 # Stage One:
 
+No, this isn't a Naomi 'multi' announcement!<br>
+https://www.arcade-projects.com/forums/index.php?thread/1159-burn-naomi-games-to-cd-r-and-play-on-gdrom-drive/&postID=104055#post104055<br>
+"*Gasp* Is this the beginning of the official Naomi 'multi' announcement!!!!!!!!"
+
 Before we get to far into this, a friendly reminder: Please note that the following text is considered "for purposes of good-faith security research".
 
 The above mentioned key players have helped monetize the arcade community via microtransactions for "multicarts", "conversions", and other "fixes" for a few years now. 
