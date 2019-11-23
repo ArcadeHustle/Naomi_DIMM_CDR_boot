@@ -18,7 +18,7 @@ The above mentioned key players have helped monetize the arcade community via mi
 This Thanksgiving we've decided to decomission one more part of the ole "Internet Money Maker" by sharing a long lost mythical "CDR" firmware patch for the Naomi GDROM platform. 
 <br>TLDR: https://archive.org/download/317hackedupdatergd
 
-The past few years has been spent sowing the arcade scene with misinformation or "white lies" to help supress this sort of information. It is well beyond time to fess up about this patch,
+The past few years has been spent sowing the arcade scene with misinformation or "white lies" to help supress this sort of detail. It is well beyond time to fess up about this patch,
 at this point enough CF readers have been sold. Discussing it is justified, as no private sales will be harmed given they've all tapered off anyway! 
 
 https://www.arcade-projects.com/forums/index.php?thread/11-naomi-cf-kit-and-dimm-conversion-services/
@@ -89,7 +89,7 @@ Net-Dimm 3.17 flash dump (Originally from https://www.gamoover.net/aspic/1st_FW_
 ```
 $ md5 317hackedupdatergd.bin 317_312.bin FW_Dimm317.bin  
 MD5 (317hackedupdatergd.bin) = 6150b29fca1ea9cbc465781e2a572739 - Netboot image
-MD5 (317_312.bin) = 3db89fa3b5f5be02232d7f70a3e26391
+MD5 (317_312.bin) = 3db89fa3b5f5be02232d7f70a3e26391 - MAME
 MD5 (FW_Dimm317.bin) = b245b4e8f177b1e9c01d47dbbb424aa0  - Raw flash dump 
 ```
 ------------------------------------------------------------------------------------------------------------------------
