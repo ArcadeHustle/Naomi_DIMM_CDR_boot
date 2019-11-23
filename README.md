@@ -246,7 +246,7 @@ https://forum.arcadeotaku.com/posting.php?mode=quote&f=26&p=410392<br>
 "firmware1 (http://www.gamoover.net/aspic/1st_FW_Dimm317.rar) is the bog standard 3.17 - as a flash image ready to burn with a programmer (same md5sum as a flash I desoldered some time back)<br>
 firmware2 (http://www.gamoover.net/aspic/2nd_FW_Dimm_402.rar) is a gd-rom/netboot image, which will upgrade the dimm firmware to a patched 4.0 that works with non-net daughterboards."
 
-Finally, the only thing left to mention is that the old Dreamcast "dcisotools" aka gditools may be useful in solving the disc creation. Good luck! If you get stuck, just but Mitsu or Dark. 
+Finally, the only thing left to mention is that the old Dreamcast "dcisotools" aka gditools may be useful in solving the disc creation. Good luck! If you get stuck, just bug Mitsu or Dark. 
 https://github.com/einsteinx2/gditools.git
 
 ```
