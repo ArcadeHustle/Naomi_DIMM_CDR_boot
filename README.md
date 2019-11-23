@@ -73,7 +73,7 @@ or To allow preservation in a playable format..."
 
 # Stage Two:
 
-For extended amounts of time now the details of how Naomi can boot off of a CDR has been closely guarded. 
+For extended amounts of time now the details of how Sega Naomi can boot games from CDR media has been closely guarded. 
 
 Below is a table showing differences in the binaries that have been available via various channels over the past decade.<br> 
 ```
