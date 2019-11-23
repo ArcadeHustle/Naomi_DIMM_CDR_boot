@@ -80,6 +80,9 @@ form of computer programs, lawfully acquired as complete games 37 CFR §201.40(b
 or To allow preservation in a playable format..."
 
 # Stage Two:
+<p align="center">
+  <img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/gobble.jpg">
+</p>
 
 For extended amounts of time now the details of how Sega Naomi can boot games from CDR media has been closely guarded. 
 
