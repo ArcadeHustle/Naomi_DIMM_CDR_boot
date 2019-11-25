@@ -74,14 +74,14 @@ https://web.archive.org/web/20060118092042/https://www.copyright.gov/1201/2003/r
 "a side effect of dongle-based access control is that legitimate access to the software may be prevented if the dongle is lost, malfunctioning, damaged or obsolete"<br>
 "thus cannot be archived without circumventing the dongle-based access control"
 
-Exemptions to Prohibition against Circumvention of Technological Measures Protecting Copyrighted Works – Seventh 
-Triennial Section 1201 Final Rule, Effective October 28, 2018<br>
+Exemptions to Prohibition against Circumvention of Technological Measures Protecting Copyrighted Works<br>
+Seventh Triennial Section 1201 Final Rule, Effective October 28, 2018<br>
 "Video games in the form of computer programs, where outside server support has been discontinued, to allow individual play and preservation by an eligible library, archive, or museum"
 https://library.osu.edu/document-registry/docs/1027/stream 
 
-https://library.osu.edu/site/copyright/2019/03/20/2018-dmca-section-1201-exemptions-announced/ "Video games in the 
-form of computer programs, lawfully acquired as complete games 37 CFR §201.40(b)(12)" "For personal, local gameplay; 
-or To allow preservation in a playable format..."
+"Video games in the form of computer programs, lawfully acquired as complete games 37 CFR §201.40(b)(12)"<br> 
+"For personal, local gameplay; or To allow preservation in a playable format..."<br>
+https://library.osu.edu/site/copyright/2019/03/20/2018-dmca-section-1201-exemptions-announced/ 
 
 # Stage Two:
 <p align="center">
