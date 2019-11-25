@@ -70,6 +70,10 @@ Additional text relevant to this document can be found below:
 "Computer programs and video games distributed in formats that have become obsolete and which require the original media or hardware as a condition of access."
 https://archive.org/about/dmca.php
 
+"a side effect of dongle-based access control is that legitimate access to the software may be prevented if the dongle is lost, malfunctioning, damaged or obsolete"
+"thus cannot be archived without circumventing the dongle-based access control"
+https://web.archive.org/web/20060118092042/https://www.copyright.gov/1201/2003/reply/015.pdf
+
 Exemptions to Prohibition against Circumvention of Technological Measures Protecting Copyrighted Works – Seventh 
 Triennial Section 1201 Final Rule, Effective October 28, 2018 https://library.osu.edu/document-registry/docs/1027/stream 
 "Video games in the form of computer programs, where outside server support has been discontinued, to allow individual 
