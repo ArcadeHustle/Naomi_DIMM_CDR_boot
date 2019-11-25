@@ -76,7 +76,7 @@ https://web.archive.org/web/20060118092042/https://www.copyright.gov/1201/2003/r
 
 Exemptions to Prohibition against Circumvention of Technological Measures Protecting Copyrighted Works<br>
 Seventh Triennial Section 1201 Final Rule, Effective October 28, 2018<br>
-"Video games in the form of computer programs, where outside server support has been discontinued, to allow individual play and preservation by an eligible library, archive, or museum"
+"Video games in the form of computer programs, where outside server support has been discontinued, to allow individual play and preservation by an eligible library, archive, or museum"<br>
 https://library.osu.edu/document-registry/docs/1027/stream 
 
 "Video games in the form of computer programs, lawfully acquired as complete games 37 CFR §201.40(b)(12)"<br> 
