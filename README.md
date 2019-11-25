@@ -71,7 +71,7 @@ Additional text relevant to this document can be found below:
 https://archive.org/about/dmca.php
 
 "a side effect of dongle-based access control is that legitimate access to the software may be prevented if the dongle is lost, malfunctioning, damaged or obsolete"
-"thus cannot be archived without circumventing the dongle-based access control"
+"thus cannot be archived without circumventing the dongle-based access control"<br>
 https://web.archive.org/web/20060118092042/https://www.copyright.gov/1201/2003/reply/015.pdf
 
 Exemptions to Prohibition against Circumvention of Technological Measures Protecting Copyrighted Works – Seventh 
